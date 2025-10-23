@@ -35,8 +35,8 @@
 * Un cop iniciada la sessió, Bitwarden crea automàticament el **Vault** (la base de dades on es guarden les contrasenyes).
 
 * Tot el contingut es xifra localment amb la contrasenya mestra abans d’enviar-se al núvol.
-![Captura02](Captura02)
-![Captura03](Captura03)
+![Captura02](Captura02.png)
+![Captura03](Captura03.png)
 ---
 
 ## **2\. Generació de Contrasenyes Segures**
@@ -44,7 +44,7 @@
 ### **🔹 Pas 1\. Obrir el Generador de Contrasenyes**
 
 1. A la interfície principal, feu clic a **“Add Item”** o a **“Generator”** (icona de claus).
-  ![Captura05](Captura05) ![Captura06](Captura06)
+  ![Captura05](Captura05.png) ![Captura06](Captura06.png)
 
 2. Seleccionem els paràmetres desitjats:
 
