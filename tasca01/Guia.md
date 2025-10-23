@@ -27,7 +27,7 @@
    * **Contrasenya mestra segura** (mínim 12 caràcters, amb majúscules, minúscules, números i símbols)
 
 4. Guardem la contrasenya mestra en un lloc segur (NO dins de Bitwarden).
-
+!(https://github.com/aleiixmorillaas/Projecte03/blob/main/tasca01/Captura01.png) 
 ---
 
 ### **🔹 Pas 3\. Creació de la BBDD principal (Vault)**
