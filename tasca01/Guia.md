@@ -64,14 +64,6 @@
 
 ---
 
-## 
-
-## 
-
-## 
-
-## 
-
 ## **3\. Exemples d’Ús i Emplenament Automàtic**
 
 ### **🔹 A. Desa d’una credencial de correu electrònic**
