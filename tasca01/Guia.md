@@ -134,6 +134,7 @@
 * **No** guardis la còpia a la mateixa màquina on es fa servir Bitwarden.
 
 * Actualitza la còpia cada 3-6 mesos.
+
 ![Captura010](Captura010.png)
 ---
 
