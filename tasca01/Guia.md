@@ -45,7 +45,7 @@
 
 1. A la interfície principal, feu clic a **“Add Item”** o a **“Generator”** (icona de claus).
 
-  ![Captura05](Captura05.png) ![Captura06](Captura06.png)
+     ![Captura06](Captura06.png)      ![Captura05](Captura05.png)
 
 2. Seleccionem els paràmetres desitjats:
 
