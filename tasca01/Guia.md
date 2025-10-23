@@ -82,7 +82,7 @@
    * **URL:** [https://mail.google.com](https://mail.google.com/)
 
 3. Desem amb **“Save”**.
-     ![Captura07](Captura07.png)     
+![Captura07](Captura07.png)     
 ---
 
 ### **🔹 B. Desa d’una credencial d’una aplicació o servei web**
@@ -90,7 +90,7 @@
 1. Repetim el mateix procés amb el nom i l’enllaç del servei (ex: GitHub, Jira, etc.).
 
 2. Podem afegir **notes**, **carpetes** o **etiquetes** per organitzar millor les credencials.
-     ![Captura08](Captura08.png)     
+![Captura08](Captura08.png)     
 ---
 
 ### **🔹 C. Ús de l’Extensió del Navegador**
