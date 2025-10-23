@@ -6,31 +6,27 @@
 
 ### **🔹 Pas 1\. Descàrrega de Bitwarden**
 
-1. Aneu a la pàgina oficial: [https://bitwarden.com/download/](https://bitwarden.com/download/)
+1. Anem a la pàgina oficial: [https://bitwarden.com/download/](https://bitwarden.com/download/)
 
-2. Seleccioneu la versió adequada:
+2. Seleccionem la versió adequada:
 
    * **Windows / macOS / Linux** → Aplicació d’escriptori
-
-   * **Android / iOS** → Aplicació mòbil
-
-   * **Browser Extension** → Extensió per Chrome, Firefox, Edge o Brave
 
 ---
 
 ### **🔹 Pas 2\. Creació del Compte Mestre**
 
-1. Obriu Bitwarden després d’instal·lar-lo.
+1. Obrim Bitwarden després d’instal·lar-lo.
 
-2. Feu clic a **“Create Account”**.
+2. Fem clic a **“Create Account”**.
 
-3. Introduïu:
+3. Introduïm:
 
    * **Email corporatiu**
 
    * **Contrasenya mestra segura** (mínim 12 caràcters, amb majúscules, minúscules, números i símbols)
 
-4. Guardeu la contrasenya mestra en un lloc segur (NO dins de Bitwarden).
+4. Guardem la contrasenya mestra en un lloc segur (NO dins de Bitwarden).
 
 ---
 
@@ -48,7 +44,7 @@
 
 1. A la interfície principal, feu clic a **“Add Item”** o a **“Generator”** (icona de claus).
 
-2. Seleccioneu els paràmetres desitjats:
+2. Seleccionem els paràmetres desitjats:
 
    * **Longitud:** recomanat entre 14 i 20 caràcters.
 
@@ -58,9 +54,9 @@
 
 ### **🔹 Pas 2\. Copiar i Utilitzar**
 
-* Feu clic a **“Copy Password”** i enganxeu-la on calgui.
+* Fem clic a **“Copy Password”** i enganxem-la on calgui.
 
-* Podeu guardar directament la contrasenya generada com a nova entrada al Vault.
+* Podem guardar directament la contrasenya generada com a nova entrada al Vault.
 
 ---
 
@@ -68,39 +64,39 @@
 
 ### **🔹 A. Desa d’una credencial de correu electrònic**
 
-1. Cliqueu **“Add Item”** → **Login**.
+1. Cliquem **“Add Item”** → **Login**.
 
-2. Ompliu:
+2. Omplim:
 
    * **Nom:** Compte Gmail
 
    * **Usuari:** nom@empresa.com
 
-   * **Contrasenya:** (afegiu la contrasenya o genereu-ne una nova)
+   * **Contrasenya:** (afegim la contrasenya o generem una nova)
 
    * **URL:** [https://mail.google.com](https://mail.google.com/)
 
-3. Deseu amb **“Save”**.
+3. Desem amb **“Save”**.
 
 ---
 
 ### **🔹 B. Desa d’una credencial d’una aplicació o servei web**
 
-1. Repetiu el mateix procés amb el nom i l’enllaç del servei (ex: GitHub, Jira, etc.).
+1. Repetim el mateix procés amb el nom i l’enllaç del servei (ex: GitHub, Jira, etc.).
 
-2. Podeu afegir **notes**, **carpetes** o **etiquetes** per organitzar millor les credencials.
+2. Podem afegir **notes**, **carpetes** o **etiquetes** per organitzar millor les credencials.
 
 ---
 
 ### **🔹 C. Ús de l’Extensió del Navegador**
 
-1. Instal·leu l’extensió des de la botiga del vostre navegador.
+1. Instal·lem l’extensió des de la botiga del vostre navegador.
 
    * Exemple: [Bitwarden Chrome Extension](https://chrome.google.com/webstore/detail/bitwarden-free-password-m/nngceckbapebfimnlniiiahkandclblb)
 
-2. Inicieu sessió amb el vostre compte.
+2. Iniciem sessió amb el nostre compte.
 
-3. Quan entreu en una pàgina d’inici de sessió, Bitwarden mostrarà automàticament les credencials guardades.
+3. Quan entrem en una pàgina d’inici de sessió, Bitwarden mostrarà automàticament les credencials guardades.
 
 4. Feu clic a **“Autofill”** per emplenar usuari i contrasenya automàticament.
 
@@ -112,9 +108,9 @@
 
 1. A l’aplicació d’escriptori o web:
 
-   * Aneu a **Settings → Tools → Export Vault**.
+   * Anem a **Settings → Tools → Export Vault**.
 
-2. Seleccioneu format **.json** o **.csv**.
+2. Seleccionem format **.json** o **.csv**.
 
 3. ⚠️ **Atenció:** l’arxiu exportat NO està xifrat. S’ha de protegir immediatament.
 
