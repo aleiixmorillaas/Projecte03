@@ -122,7 +122,7 @@
 2. Seleccionem format **.json** o **.csv**.
 
 3. ⚠️ **Atenció:** l’arxiu exportat NO està xifrat. S’ha de protegir immediatament.
-
+![Captura09](Captura09.png)
 ---
 
 ### **🔹 Pas 2\. Bones pràctiques per a l’emmagatzematge segur**
@@ -134,7 +134,7 @@
 * **No** guardis la còpia a la mateixa màquina on es fa servir Bitwarden.
 
 * Actualitza la còpia cada 3-6 mesos.
-
+![Captura010](Captura010.png)
 ---
 
 ## **5\. Recomanacions Finals**
