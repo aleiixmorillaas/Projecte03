@@ -27,7 +27,7 @@
    * **Contrasenya mestra segura** (mínim 12 caràcters, amb majúscules, minúscules, números i símbols)
 
 4. Guardem la contrasenya mestra en un lloc segur (NO dins de Bitwarden).
-![fgdd](Captura01.png)
+![Captura01](Captura01.png)
 ---
 
 ### **🔹 Pas 3\. Creació de la BBDD principal (Vault)**
@@ -35,8 +35,8 @@
 * Un cop iniciada la sessió, Bitwarden crea automàticament el **Vault** (la base de dades on es guarden les contrasenyes).
 
 * Tot el contingut es xifra localment amb la contrasenya mestra abans d’enviar-se al núvol.
-![asadaf](Captura02)
-![fafdsfa](Captura03)
+![Captura02](Captura02)
+![Captura03](Captura03)
 ---
 
 ## **2\. Generació de Contrasenyes Segures**
@@ -44,7 +44,7 @@
 ### **🔹 Pas 1\. Obrir el Generador de Contrasenyes**
 
 1. A la interfície principal, feu clic a **“Add Item”** o a **“Generator”** (icona de claus).
-  ![asfasfea](Captura05) ![agrsdgsd](Captura06)
+  ![Captura05](Captura05) ![Captura06](Captura06)
 
 2. Seleccionem els paràmetres desitjats:
 
